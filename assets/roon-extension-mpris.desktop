@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Roon MPRIS Bridge
+Comment=Expose Roon transport via MPRIS for desktop media controls
+Exec=sh -c 'cd "$HOME/roon-extension-mpris" && npm start'
+Icon=multimedia-player
+Terminal=false
+Categories=AudioVideo;Player;
+X-GNOME-Autostart-enabled=false
+
