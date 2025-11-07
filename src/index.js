@@ -54,7 +54,7 @@ const roon = new RoonApi({
   display_version: pkg.version,
   publisher: pkg.author || 'Roon MPRIS Bridge',
   email: 'mpris@localhost',
-  website: 'https://github.com/yuifunami/roon-extension-mpris',
+  website: 'https://github.com/NoaHimesaka1873/roon-extension-mpris',
   core_paired: onCorePaired,
   core_unpaired: onCoreUnpaired
 });

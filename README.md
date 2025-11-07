@@ -11,7 +11,7 @@ Expose a paired Roon zone through the [MPRIS](https://specifications.freedesktop
 ## Install
 
 ```bash
-git clone https://github.com/yuifunami/roon-extension-mpris.git
+git clone https://github.com/NoaHimesaka1873/roon-extension-mpris.git
 cd roon-extension-mpris
 npm install
 ```
